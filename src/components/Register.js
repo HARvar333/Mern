@@ -44,6 +44,7 @@ function Register(){
 
     return(
         <div>
+            <h1>Add comment to header</h1>
             <form className="form-label w-50 mx-auto m-5" onSubmit={handleSubmit(onFormSubmit)}>
 
             {/* username */}
